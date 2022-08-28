@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Watch this space
+![Code Map](codemap.png){: height="400" }
